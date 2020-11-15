@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80bde55487ff466ab252e25d85c2fab9",
+    "revision": "f9f6082f1c4c6c43d240cee62f3c391f",
     "url": "/lovepower/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lovepower/static/js/2.001db746.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "528053ebf74bbaaa805b",
-    "url": "/lovepower/static/js/main.be56a22d.chunk.js"
+    "revision": "485247caa87e5fa2fdf0",
+    "url": "/lovepower/static/js/main.504c2f80.chunk.js"
   },
   {
     "revision": "ff0e6c0acf163f69dd59",
