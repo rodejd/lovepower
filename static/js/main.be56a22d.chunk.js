@@ -1,0 +1,2 @@
+(this.webpackJsonplovepower=this.webpackJsonplovepower||[]).push([[0],{3:function(e,n,t){e.exports=t(9)},9:function(e,n,t){"use strict";t.r(n);var r=t(0),o=t.n(r),a=t(2),l=t.n(a);var c=function(){return o.a.createElement("div",{className:"App"},o.a.createElement("h1",null,"hello"))};t(8);l.a.render(o.a.createElement(c,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.be56a22d.chunk.js.map
