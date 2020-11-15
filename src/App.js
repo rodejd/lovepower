@@ -1,10 +1,11 @@
 import React from 'react';
+import MainPage from "./components/main/MainPage";
 
 
 function App() {
   return (
     <div className="App">
-   <h1>hello gdogdfig</h1>
+        <MainPage/>
     </div>
   );
 }
