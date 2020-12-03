@@ -4,13 +4,17 @@ import './MainPage.scss';
 
 class MainPage extends Component{
 
+    constructor(props) {
+        super(props);
+
+    }
+
     render() {
         return(
             <div className="main">
             <div>
-                2020 LOVELY KKYONG HOMEPAGE
+               ghghgh LOVELY KKYONG HOMEPAGE
             </div>
-
                 <Footer/>
             </div>
         )
@@ -18,5 +22,6 @@ class MainPage extends Component{
 
 
 }
+
 
 export default MainPage;
