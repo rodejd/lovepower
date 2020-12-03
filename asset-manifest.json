@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lovepower/static/css/main.4f36db66.chunk.css",
-    "main.js": "/lovepower/static/js/main.f5d9a13c.chunk.js",
-    "main.js.map": "/lovepower/static/js/main.f5d9a13c.chunk.js.map",
+    "main.js": "/lovepower/static/js/main.8d5b98d5.chunk.js",
+    "main.js.map": "/lovepower/static/js/main.8d5b98d5.chunk.js.map",
     "runtime-main.js": "/lovepower/static/js/runtime-main.05027855.js",
     "runtime-main.js.map": "/lovepower/static/js/runtime-main.05027855.js.map",
     "static/css/2.af3c1da9.chunk.css": "/lovepower/static/css/2.af3c1da9.chunk.css",
     "static/js/2.65863e93.chunk.js": "/lovepower/static/js/2.65863e93.chunk.js",
     "static/js/2.65863e93.chunk.js.map": "/lovepower/static/js/2.65863e93.chunk.js.map",
     "index.html": "/lovepower/index.html",
-    "precache-manifest.f663aab9daf881bb4e146ba650babb63.js": "/lovepower/precache-manifest.f663aab9daf881bb4e146ba650babb63.js",
+    "precache-manifest.9eefbc66fb98287caf2acb0ae50bebbc.js": "/lovepower/precache-manifest.9eefbc66fb98287caf2acb0ae50bebbc.js",
     "service-worker.js": "/lovepower/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/lovepower/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.4f36db66.chunk.css.map": "/lovepower/static/css/main.4f36db66.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.65863e93.chunk.js",
     "static/css/main.4f36db66.chunk.css",
-    "static/js/main.f5d9a13c.chunk.js"
+    "static/js/main.8d5b98d5.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c3ead995e7102af1b77a33b1dd53546",
+    "revision": "e2048d4b3f07b4f2b6b2ca9d3e0a8907",
     "url": "/lovepower/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lovepower/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "cca28d5f151687376e36",
+    "revision": "30eb2da768fc2879a1e9",
     "url": "/lovepower/static/css/main.4f36db66.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lovepower/static/js/2.65863e93.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cca28d5f151687376e36",
-    "url": "/lovepower/static/js/main.f5d9a13c.chunk.js"
+    "revision": "30eb2da768fc2879a1e9",
+    "url": "/lovepower/static/js/main.8d5b98d5.chunk.js"
   },
   {
     "revision": "ff0e6c0acf163f69dd59",
